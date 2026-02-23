@@ -1,0 +1,16 @@
+getgenv().ReturnHub = {
+    autoskip = true,
+    SellAllTower = true,
+    AtWave = 40,
+    Modifiers = (""),
+    AutoAbilities = false,
+    AutoRewards = false,
+    SnowcharmsPickup = true,
+    macroURL = "https://raw.githubusercontent.com/uwaiss9578752-cloud/Hardcore40/refs/heads/main/README.md",
+    replay = false,
+    Gamemode = "Hardcore",
+    Map = "Crossroads",
+    Difficulty = "Hardcore",
+    Loadout = ("Pyromancer,Commander,Ace Pilot,Electroshocker,Farm"),
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/2xrW/returnhub-output/refs/heads/main/TDS"))() 
