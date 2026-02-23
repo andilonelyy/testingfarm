@@ -8,9 +8,9 @@ getgenv().ReturnHub = {
     SnowcharmsPickup = true,
     macroURL = "https://raw.githubusercontent.com/uwaiss9578752-cloud/Hardcore40/refs/heads/main/README.md",
     replay = false,
-    Gamemode = "Hardcore",
+    Gamemode = "Survival",
     Map = "Crossroads",
-    Difficulty = "Hardcore",
+    Difficulty = "Intermediate",
     Loadout = ("Pyromancer,Commander,Ace Pilot,Electroshocker,Farm"),
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/2xrW/returnhub-output/refs/heads/main/TDS"))() 
